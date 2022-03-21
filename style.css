@@ -1,0 +1,49 @@
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.container{
+    margin-bottom: 60px;
+}
+.carousel-item{
+    padding: 20px 50px;
+}
+.price{
+    color: #ff136f;
+}
+.button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 20px;
+    border: none;
+}
+.cat1{
+    background-color: #e94b7a;
+}
+.cat2{
+    background-color: rgb(48, 75, 228);
+}
+.cat3{
+    background-color: rgb(245, 242, 57);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    border-radius: 10px;
+    
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray ;
+}
+#contactus{
+    height: 300px;
+}
+#contactus h6{
+color:  grey;
+}
